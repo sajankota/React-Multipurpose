@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
-    "axios": "^0.26.1",
+    "axios": "^1.4.0",
     "bootstrap": "^5.3.0",
     "eslint-config-next": "^13.4.12",
     "fslightbox-react": "^1.7.6",
