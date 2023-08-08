@@ -12,7 +12,7 @@
     "aos": "^2.3.4",
     "axios": "^1.4.0",
     "bootstrap": "^5.3.1",
-    "eslint-config-next": "^13.4.12",
+    "eslint-config-next": "^13.4.13",
     "fslightbox-react": "^1.7.6",
     "next": "^12.1.6",
     "nodemailer": "^6.9.4",
