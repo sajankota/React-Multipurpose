@@ -11,22 +11,22 @@
   "dependencies": {
     "aos": "^2.3.4",
     "axios": "^0.26.1",
-    "bootstrap": "^5.2.3",
-    "fslightbox-react": "^1.6.2-2",
+    "bootstrap": "^5.3.1",
+    "fslightbox-react": "^1.7.6",
     "next": "^12.1.6",
-    "nodemailer": "^6.8.0",
+    "nodemailer": "^6.9.4",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-responsive-carousel": "^3.2.23",
-    "react-tabs": "^6.0.1",
-    "sass": "^1.49.9",
-    "sweetalert2": "^11.4.8",
+    "react-tabs": "^6.0.2",
+    "sass": "^1.66.1",
+    "sweetalert2": "^11.7.25",
     "sweetalert2-react-content": "^5.0.7",
     "swiper": "^8.4.5"
   },
   "devDependencies": {
-    "eslint": "8.5.0",
+    "eslint": "^8.47.0",
     "eslint-config-next": "12.0.7"
   }
 }
